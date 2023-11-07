@@ -2,7 +2,6 @@
 #include <unistd.h> //for sleep
 
 
-
 #define Length 40 //length of map
 #define Wide 20 // wide of map
 
